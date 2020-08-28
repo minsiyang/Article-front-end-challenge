@@ -1,8 +1,22 @@
 body {
   background-color: hsl(210, 46%, 95%);
   font-family: Manrope;
+  width: 1440px;
 }
 
+header{
+  font-weight: 700;
+}
+
+.picture img {
+  width: 400px;
+  height: 280px;
+}
+
+.paragraph {
+  font-size: 13px;
+  font-weight: 500;
+}
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
