@@ -9,6 +9,15 @@ header{
   font-weight: 700;
 }
 
+h5 {
+  margin-bottom: 2px;
+}
+
+p {
+  margin-top: 2px;
+  font-size: 13px;
+}
+
 .picture {
   display: inline;
 }
@@ -29,8 +38,8 @@ header{
 
 .avatar img {
   border-radius: 100%;
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
 }
 
 .designer {
