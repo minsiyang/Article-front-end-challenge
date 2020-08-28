@@ -23,6 +23,20 @@ header{
   width: 250px;
 }
 
+.avatar {
+  display: inline;
+}
+
+.avatar img {
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+}
+
+.designer {
+  display: inline-block;
+}
+
 .paragraph {
   font-size: 13px;
   font-weight: 500;
